@@ -1,0 +1,20 @@
+<sidebar>
+<div class = "stats">
+<img />
+<p>More than one-third of consumers use social media to make purchase decisions.</p>
+</div>
+<div class = "stats">
+<img />
+<p>86% of shoppers want monthly promotional emails from brands they buy.</p>
+</div>
+<div class = "stats">
+<img />
+<p>Six out of 10 consumers expect brands to have a website.</p>
+</div>
+</sidebar>
+
+https://sleeknote.com/blog/email-marketing-statistics
+https://www.lyfemarketing.com/blog/digital-marketing-statistics/
+https://blogs.constantcontact.com/small-business-website/#
+
+Use in images 100 pixels tall by 260 pixels wide.

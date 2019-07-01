@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* HTML Elements */
+
+body {
+	background-color: #ebebeb;
+}
+
+footer {
+	background-color: #3c54a5;
+	clear: both;
+	color: white;
+	padding: 15px;
+	text-align: center;
+	
+}
+
+footer p {
+	font-size: 18px;
+}
+
+header {
+	background-color: #ffc808;
+	margin-bottom: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+header h1 {
+	display: inline-block;
+	text-align: center;
+}
+
+h1 {
+	font-size: 36px;
+	text-align: center;
+	
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3 {
+	color: #3c54a5;
+	font-size: 24px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-family: 'Trailmade', serif;
+}
+
+img {
+	float: left;
+	margin: 0px 10px 10px 10px;
+}
+
+nav {
+	background-color: #3c54a5;
+	clear: both;
+	margin: auto;
+	text-align: center;
+	width: 31%;
+}
+
+nav ul {
+	background-color: #3c54a5;
+	display: inline-block;
+	font-family: 'Aglet Slab', sans-serif;
+	list-style-type: none;
+	margin: 10px;
+	padding: 0px;
+	text-align: center;
+	text-decoration: none;
+}
+
+nav li {
+	border: 2px solid white;
+	float: left;
+	margin: 0 5px;
+	padding: 10px;
+}
+
+nav a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+p {
+	font-family: 'Motiva Sans', sans-serif;
+	font-size: 16px;
+}
+
+aside {
+	border-left: 3px solid black;
+	float: left;
+	height: 370px;
+	margin-top: 20px;
+	padding-left: 20px;
+	width: 300px;
+}
+
+aside div {
+	float: left;
+	width: 300px;
+}
+
+
+/*div ids and classes*/
+
+#bio {
+	clear: both;
+	margin: auto;
+	width: 90%;
+}
+
+#container {
+	float: left;
+	padding: 0px 25px;
+	width: 900px;
+}
+
+#folio {
+	clear: both;
+	margin: auto;
+	text-align: center;
+	width: 100%;
+}
+
+#logo {
+	display: block;
+	margin: 0 auto;
+	padding-right: 10px;
+	text-align: center;
+	width: 55px;
+}
+
+.header-container {
+	background-color: #ffc808;
+	text-align: center;
+}
+
+.portfolio {
+	float: left;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	width: 33%;
+}
+
+.portfolio img {
+	padding: 10%;
+	width: 90%;
+}
+
+.stats {
+	margin-bottom: 40px;
+	margin-top: 0px;
+}
+
+.stats p {
+	margin-block-start: 0px;
+}
